@@ -38,7 +38,7 @@ python3 -m bot
 ```
 ## Deploying to Heroku (Optional) (Not Suitable for very big Clones!)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/anime-republic/CLONE-HUNTER)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://dashboard.heroku.com/new?template=https://github.com/vivekya20112000/clonehunter)
 
 **Please know that after using this button, your work isn't done.Either you must load token.pckle and account folder using URL or You gotta connect heroku app to your repo and add credentials.json and token.pickle and if you use Service accounts upload account folder to the repo and click on manual deploy.**
 
